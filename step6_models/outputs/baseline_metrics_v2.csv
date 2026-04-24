@@ -1,0 +1,4 @@
+model,auroc,prauc,best_threshold,f1_best,precision_best,recall_best,tn,fp,fn,tp,train_time_s
+XGBoost,0.9954,0.8292,0.865,0.7567,0.6969,0.8277,14673,117,56,269,90.9
+LightGBM,0.9945,0.8103,0.905,0.7308,0.6684,0.8062,14660,130,63,262,10.5
+RandomForest,0.8947,0.1504,0.945,0.2282,0.3503,0.1692,14688,102,270,55,297.9
