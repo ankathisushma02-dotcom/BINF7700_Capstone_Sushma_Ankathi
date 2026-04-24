@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -40,24 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Step3_Lincs_download.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Step3_Lincs_fixes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Step3_fix cosmic Id.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Step4_id harmonisation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Step5_Feature Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Step6_Baseline_Models.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Step6_Baseline_Models_v2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Step6_Synergy_Heatmap.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Step7_Shap_Lime.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Step8 enrichment network.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Step_Baseline_Models_v2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sush/PYCHARM/Capstone project&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Step3_Lincs_download.executor": "Run",
+    "Python.Step3_Lincs_fixes.executor": "Run",
+    "Python.Step3_fix cosmic Id.executor": "Run",
+    "Python.Step4_id harmonisation.executor": "Run",
+    "Python.Step5_Feature Matrix.executor": "Run",
+    "Python.Step6_Baseline_Models.executor": "Run",
+    "Python.Step6_Baseline_Models_v2.executor": "Run",
+    "Python.Step6_Synergy_Heatmap.executor": "Run",
+    "Python.Step7_Shap_Lime.executor": "Run",
+    "Python.Step8 enrichment network.executor": "Run",
+    "Python.Step_Baseline_Models_v2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sush/PYCHARM/Capstone project"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
