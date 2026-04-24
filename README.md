@@ -371,4 +371,3 @@ MS Bioinformatics | Northeastern University
 ankathi.s@northeastern.edu
 ---
 
-## Pipeline
