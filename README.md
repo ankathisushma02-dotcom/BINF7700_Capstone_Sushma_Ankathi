@@ -15,7 +15,7 @@
 
 Cancer drug resistance remains one of the leading causes of treatment failure worldwide. 
 Combination therapies that target multiple pathways simultaneously offer a promising 
-solution — yet testing all possible drug pairs experimentally is prohibitively expensive, 
+solution , yet testing all possible drug pairs experimentally is prohibitively expensive, 
 requiring decades of work and billions of dollars.
 
 This project develops an **interpretable machine learning framework** that predicts 
