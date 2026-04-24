@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-Academic-red)
 
 **Author:** Sushma Ankathi | MS Bioinformatics | Northeastern University | Spring 2026
-**Faculty:** Dr. Oyeronke Ayansola | **Advisor:** Dr. Nabil Atallah
+**Faculty:** Dr.Ayansola Oyeronke | **Advisor:** Dr. Nabil Atallah
 **Course:** BINF7700 Capstone Project
 
 ---
